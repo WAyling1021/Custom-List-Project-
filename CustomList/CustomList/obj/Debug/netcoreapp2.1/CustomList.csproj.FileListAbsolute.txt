@@ -1,0 +1,4 @@
+/Users/williamayling/Desktop/Custom-List-Project/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.csprojAssemblyReference.cache
+/Users/williamayling/Desktop/Custom-List-Project/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.csproj.CoreCompileInputs.cache
+/Users/williamayling/Desktop/Custom-List-Project/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.AssemblyInfoInputs.cache
+/Users/williamayling/Desktop/Custom-List-Project/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.AssemblyInfo.cs
